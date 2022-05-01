@@ -1,11 +1,11 @@
-print ("NorthMove.tk Loading Please Few Seconds For Notification!")
+print ("SouthMove.lol Loading Please Few Seconds For Notification!")
 getgenv().values = {} 
 local library = {} 
 
 wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
-Title = "NorthMove.tk"; -- 
-Text = "Succesfully Loaded... Thanks To Trxez and Smify and deo!"; -- 
+Title = "No lol"; -- 
+Text = "Succesfully Loaded... Thanks To no one!"; -- 
 Icon = "rbxassetid://1297630667"; -- t
 Duration = 5; -- 
 })
@@ -54,8 +54,7 @@ local TBLFIND = table.find
 local TBLREMOVE = table.remove 
 local TBLSORT = table.sort 
 
--- Don't Look For My Shitty Code :-(
-																																																																												-- Bad 9672 & WetIDreamz 0001 & zeox 9999												
+																																																																																							
 
 function rgbtotbl(rgb) 
 	return {R = rgb.R, G = rgb.G, B = rgb.B} 
@@ -4657,7 +4656,7 @@ end
 
 RunService.RenderStepped:Wait() 
 
-local gui = library:New("NorthMove.tk") 
+local gui = library:New("No lol") 
 local legit = gui:Tab("legit") 
 local rage = gui:Tab("rage") 
 local visuals = gui:Tab("visuals") 
@@ -4666,7 +4665,7 @@ local skins = gui:Tab("skins")
 local custom = gui:Tab("custom")
 local grief = gui:Tab("griefing") 
 local luas = gui:Tab("luas")
-local credits = gui:Tab ("Made By Smify&Trxez&deo") 
+local credits = gui:Tab ("No one") 
 
 getgenv().api = {} 
 api.newtab = function(name) 
@@ -4736,7 +4735,7 @@ luascripts:Element("Button", "clantag", nil, function()
 	 end
 	 
 	 local CurrentLetter = 0 
-	 local Clantag = "NorthMove.tk"
+	 local Clantag = "ilovechlidren"
 	 
 	 while wait(0.3) do 
 		Services.LocalPlayer.OsPlatform = "|"..Clantag:sub(0, CurrentLetter).." " 
@@ -6515,7 +6514,7 @@ client:Element("Toggle", "Watermark", {}, function(tbl)
 	Cheeto.Size = UDim2.new(0, 266, 0, 28)
 	Cheeto.Font = Enum.Font.ArialBold
 	Cheeto.LineHeight = 0.820
-	Cheeto.Text = "NorthMove.tk - "
+	Cheeto.Text = "no - "
 	Cheeto.TextColor3 = Color3.fromRGB(200, 200, 200)
 	Cheeto.TextSize = 12.000
 	Cheeto.TextStrokeTransparency = 0.800
